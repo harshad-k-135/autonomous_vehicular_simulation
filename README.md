@@ -29,8 +29,8 @@ A comprehensive **Unity-based autonomous vehicle simulation** that integrates ad
 
 ### 🔬 **Machine Learning Pipeline**
 - **Multi-Target Regression**: Separate models for speed, steering, and brake control
-- **XGBoost & LightGBM**: High-performance gradient boosting algorithms
-- **Feature Engineering**: 20+ input features including position, rotation, wheel dynamics
+- **XGBoost & LightGBM**: High-performance gradient boosting algorithms.
+- **Feature Engineering**: 20+ input features including position, rotation, wheel dynamics. Dimensions reduced for faster processing and lightweight model creation.
 - **Model Export**: ONNX format for cross-platform deployment
 
 ## 🏗️ System Architecture
